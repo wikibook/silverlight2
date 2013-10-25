@@ -1,0 +1,13 @@
+﻿<ASX Version="3.0">                                                       
+  <Title>Silverlight in Action Videos</Title>                             
+  <Entry>                                                          
+    <Title>Greetings</Title>
+    <Author>Chad Campbell</Author>         
+    <Ref Href="http://www.silverlightinaction.com/video1.wmv" />
+  </Entry>
+  <Entry>                                                                 
+    <Title>City Scape</Title>                                             
+    <Author>Dan Herrenbruck</Author>                                      
+    <Ref Href="http://www.silverlightinaction.com/video2.wmv" />          
+  </Entry>
+</ASX>

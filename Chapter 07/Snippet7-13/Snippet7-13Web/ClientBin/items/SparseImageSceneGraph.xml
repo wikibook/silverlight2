@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<SceneGraph version="1">
+  <AspectRatio>2.66666666666667</AspectRatio>
+  <SceneNode>
+    <FileName>C:\Tests\MyDeepZoom\source images\chad01.jpg</FileName>
+    <x>0</x>
+    <y>0</y>
+    <Width>0.5</Width>
+    <Height>1</Height>
+    <ZOrder>1</ZOrder>
+  </SceneNode>
+  <SceneNode>
+    <FileName>C:\Tests\MyDeepZoom\source images\chad02.jpg</FileName>
+    <x>0.5</x>
+    <y>0</y>
+    <Width>0.5</Width>
+    <Height>1</Height>
+    <ZOrder>2</ZOrder>
+  </SceneNode>
+</SceneGraph>

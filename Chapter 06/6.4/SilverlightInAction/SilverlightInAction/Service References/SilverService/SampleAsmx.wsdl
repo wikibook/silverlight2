@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetTime">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetTimeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetTimeResult" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCoolText">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="sampleNumber" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetCoolTextResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCoolTextResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetTimeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetTime" />
+  </wsdl:message>
+  <wsdl:message name="GetTimeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetTimeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetCoolTextSoapIn">
+    <wsdl:part name="parameters" element="tns:GetCoolText" />
+  </wsdl:message>
+  <wsdl:message name="GetCoolTextSoapOut">
+    <wsdl:part name="parameters" element="tns:GetCoolTextResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SampleAsmxSoap">
+    <wsdl:operation name="GetTime">
+      <wsdl:input message="tns:GetTimeSoapIn" />
+      <wsdl:output message="tns:GetTimeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCoolText">
+      <wsdl:input message="tns:GetCoolTextSoapIn" />
+      <wsdl:output message="tns:GetCoolTextSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SampleAsmxSoap" type="tns:SampleAsmxSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetTime">
+      <soap:operation soapAction="http://tempuri.org/GetTime" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCoolText">
+      <soap:operation soapAction="http://tempuri.org/GetCoolText" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SampleAsmxSoap12" type="tns:SampleAsmxSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetTime">
+      <soap12:operation soapAction="http://tempuri.org/GetTime" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCoolText">
+      <soap12:operation soapAction="http://tempuri.org/GetCoolText" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SampleAsmx">
+    <wsdl:port name="SampleAsmxSoap" binding="tns:SampleAsmxSoap">
+      <soap:address location="http://localhost:53015/SampleAsmx.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SampleAsmxSoap12" binding="tns:SampleAsmxSoap12">
+      <soap12:address location="http://localhost:53015/SampleAsmx.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

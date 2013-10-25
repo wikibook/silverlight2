@@ -1,0 +1,14 @@
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.16-6.19\SilverlightInAction\SyndicatedFeeds.Web\bin\SyndicatedFeeds.Web.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.16-6.19\SilverlightInAction\SyndicatedFeeds.Web\bin\SyndicatedFeeds.Web.pdb
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.16-6.19\SilverlightInAction\SyndicatedFeeds.Web\bin\System.Web.Silverlight.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.16-6.19\SilverlightInAction\SyndicatedFeeds.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.16-6.19\SilverlightInAction\SyndicatedFeeds.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.16-6.19\SilverlightInAction\SyndicatedFeeds.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.16-6.19\SilverlightInAction\SyndicatedFeeds.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.16-6.19\SilverlightInAction\SyndicatedFeeds.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.16-6.19\SilverlightInAction\SyndicatedFeeds.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.16-6.19\SilverlightInAction\SyndicatedFeeds.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.16-6.19\SilverlightInAction\SyndicatedFeeds.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.16-6.19\SilverlightInAction\SyndicatedFeeds.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.16-6.19\SilverlightInAction\SyndicatedFeeds.Web\obj\Debug\SyndicatedFeeds.Web.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.16-6.19\SilverlightInAction\SyndicatedFeeds.Web\obj\Debug\SyndicatedFeeds.Web.pdb

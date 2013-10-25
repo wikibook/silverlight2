@@ -1,0 +1,12 @@
+C:\Tests\Snippet4-7\Snippet4-7\Bin\Debug\Snippet4-7.dll
+C:\Tests\Snippet4-7\Snippet4-7\Bin\Debug\Snippet4-7.pdb
+C:\Tests\Snippet4-7\Snippet4-7\Bin\Debug\AppManifest.xaml
+C:\Tests\Snippet4-7\Snippet4-7\Bin\Debug\Snippet4-7.xap
+C:\Tests\Snippet4-7\Snippet4-7\Bin\Debug\TestPage.html
+C:\Tests\Snippet4-7\Snippet4-7\obj\Debug\ResolveAssemblyReference.cache
+C:\Tests\Snippet4-7\Snippet4-7\obj\Debug\App.g.cs
+C:\Tests\Snippet4-7\Snippet4-7\obj\Debug\Page.g.cs
+C:\Tests\Snippet4-7\Snippet4-7\obj\Debug\Snippet4-7.g.resources
+C:\Tests\Snippet4-7\Snippet4-7\obj\Debug\Snippet4-7.dll
+C:\Tests\Snippet4-7\Snippet4-7\obj\Debug\Snippet4-7.pdb
+C:\Tests\Snippet4-7\Snippet4-7\obj\Debug\XapCacheFile.xml

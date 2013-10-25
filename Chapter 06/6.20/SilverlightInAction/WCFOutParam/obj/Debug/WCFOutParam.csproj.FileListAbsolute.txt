@@ -1,0 +1,14 @@
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WCFOutParam\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WCFOutParam\bin\WCFOutParam.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WCFOutParam\bin\WCFOutParam.pdb
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WCFOutParam\obj\Debug\WCFOutParam.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WCFOutParam\obj\Debug\WCFOutParam.pdb
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WCFOutParam\bin\System.Web.Silverlight.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WCFOutParam\bin\de\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WCFOutParam\bin\es\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WCFOutParam\bin\fr\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WCFOutParam\bin\it\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WCFOutParam\bin\ja\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WCFOutParam\bin\ko\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WCFOutParam\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WCFOutParam\bin\zh-Hant\System.Web.Silverlight.resources.dll

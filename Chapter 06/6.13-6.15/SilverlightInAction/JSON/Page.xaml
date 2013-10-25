@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="JSON.Page" 
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Width="400" Height="300" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <Grid x:Name="LayoutRoot" Background="#FF959595">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"></RowDefinition>
+            <RowDefinition Height="25"></RowDefinition>
+            <RowDefinition Height="25"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="5,5,0,0">
+            <TextBlock Text="Lat:" />
+            <TextBox x:Name="txLat" Height="22" Width="85" Text="40.78343" />
+            <TextBlock Text="Long:" />
+            <TextBox x:Name="txLong" Height="22" Width="85" Text="-73.96625" />
+            <Button x:Name="btnXML" Content="Get XML" Click="LoadJSON" />
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="5,5,0,0">
+            <TextBlock Text="City:" />
+            <TextBlock x:Name="txCity" FontSize="12" FontFamily="Courier New" VerticalAlignment="Center" />
+        </StackPanel>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="5,5,0,0">
+            <TextBlock Text="Name:" />
+            <TextBlock x:Name="txName" FontSize="12" FontFamily="Courier New" VerticalAlignment="Center" />
+        </StackPanel>
+        <StackPanel Grid.Row="3" Margin="5,5,0,0">
+            <TextBlock Text="Raw Results:" />
+            <TextBlock x:Name="txtResults" TextWrapping="Wrap" FontFamily="Courier New" FontSize="11" />
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,37 @@
+﻿<UserControl x:Class="Snippet10_20.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <StackPanel Margin="10" Width="210">
+            <ListBox x:Name="myListBox">
+                <ListBox.Template>
+                    <ControlTemplate>
+                        <Border CornerRadius="20,7,20,7" BorderThickness="4,2,4,2" 
+        BorderBrush="LimeGreen"  Padding="10">
+                            <ItemsPresenter />
+                        </Border>
+                    </ControlTemplate>
+                </ListBox.Template>
+
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation="Horizontal" />
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+
+                <ListBox.Items>
+                    <ListBoxItem>
+                        <TextBlock Padding="5">Item 1</TextBlock>
+                    </ListBoxItem>
+                    <ListBoxItem>
+                        <TextBlock Padding="5">Item 2</TextBlock>
+                    </ListBoxItem>
+                    <ListBoxItem>
+                        <TextBlock Padding="5">Item 3</TextBlock>
+                    </ListBoxItem>
+                </ListBox.Items>
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</UserControl>

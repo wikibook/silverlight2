@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snippet11-2", "Snippet11-2\Snippet11-2.csproj", "{B4C51660-8823-43A8-A1CF-6595BF4B8F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snippet11-2Web", "Snippet11-2Web\Snippet11-2Web.csproj", "{6499380A-A9FB-49D4-BB65-B001EEA092E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C51660-8823-43A8-A1CF-6595BF4B8F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C51660-8823-43A8-A1CF-6595BF4B8F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C51660-8823-43A8-A1CF-6595BF4B8F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C51660-8823-43A8-A1CF-6595BF4B8F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6499380A-A9FB-49D4-BB65-B001EEA092E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6499380A-A9FB-49D4-BB65-B001EEA092E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6499380A-A9FB-49D4-BB65-B001EEA092E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6499380A-A9FB-49D4-BB65-B001EEA092E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

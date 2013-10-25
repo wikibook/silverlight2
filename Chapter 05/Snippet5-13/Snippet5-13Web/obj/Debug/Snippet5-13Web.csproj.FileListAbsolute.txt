@@ -1,0 +1,14 @@
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 5\Snippet5-13\Snippet5-13Web\bin\Snippet5-13Web.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 5\Snippet5-13\Snippet5-13Web\bin\Snippet5-13Web.pdb
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 5\Snippet5-13\Snippet5-13Web\bin\System.Web.Silverlight.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 5\Snippet5-13\Snippet5-13Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 5\Snippet5-13\Snippet5-13Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 5\Snippet5-13\Snippet5-13Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 5\Snippet5-13\Snippet5-13Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 5\Snippet5-13\Snippet5-13Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 5\Snippet5-13\Snippet5-13Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 5\Snippet5-13\Snippet5-13Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 5\Snippet5-13\Snippet5-13Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 5\Snippet5-13\Snippet5-13Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 5\Snippet5-13\Snippet5-13Web\obj\Debug\Snippet5-13Web.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 5\Snippet5-13\Snippet5-13Web\obj\Debug\Snippet5-13Web.pdb

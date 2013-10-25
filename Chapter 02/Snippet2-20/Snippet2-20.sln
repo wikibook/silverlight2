@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snippet2-20", "Snippet2-20\Snippet2-20.csproj", "{659B0C54-6095-447C-B925-737B8BE9590D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snippet2-20.Web", "Snippet2-20.Web\Snippet2-20.Web.csproj", "{BABF54D7-0EF0-4147-A2B8-670C43179A70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659B0C54-6095-447C-B925-737B8BE9590D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659B0C54-6095-447C-B925-737B8BE9590D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659B0C54-6095-447C-B925-737B8BE9590D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659B0C54-6095-447C-B925-737B8BE9590D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABF54D7-0EF0-4147-A2B8-670C43179A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABF54D7-0EF0-4147-A2B8-670C43179A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABF54D7-0EF0-4147-A2B8-670C43179A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABF54D7-0EF0-4147-A2B8-670C43179A70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

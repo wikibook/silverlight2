@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Albums>
+  <Album ArtistID="1">
+    <Name>Trumpets and Tubas: Kicking Brass</Name>
+    <ReleaseDate>10/19/1993</ReleaseDate>
+  </Album>
+
+  <Album ArtistID="7">
+    <Name>Anarchy</Name>
+    <ReleaseDate>07/01/1997</ReleaseDate>
+  </Album>
+
+  <Album ArtistID="9">
+    <Name>The Chalkboard</Name>
+    <ReleaseDate>08/27/2007</ReleaseDate>
+  </Album>
+
+  <Album ArtistID="7">
+    <Name>Callous</Name>
+    <ReleaseDate>04/20/1993</ReleaseDate>
+  </Album>
+
+  <Album ArtistID="7">
+    <Name>Against</Name>
+    <ReleaseDate>04/04/1995</ReleaseDate>
+  </Album>
+</Albums>
+

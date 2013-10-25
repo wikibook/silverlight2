@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snippet01", "Snippet01\Snippet01.csproj", "{9735F3CB-8A87-44D3-8EC0-AE4DC806F8DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snippet01Web", "Snippet01Web\Snippet01Web.csproj", "{1431065A-4837-4B52-B255-D4A0C56066EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9735F3CB-8A87-44D3-8EC0-AE4DC806F8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9735F3CB-8A87-44D3-8EC0-AE4DC806F8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9735F3CB-8A87-44D3-8EC0-AE4DC806F8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9735F3CB-8A87-44D3-8EC0-AE4DC806F8DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1431065A-4837-4B52-B255-D4A0C56066EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1431065A-4837-4B52-B255-D4A0C56066EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1431065A-4837-4B52-B255-D4A0C56066EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1431065A-4837-4B52-B255-D4A0C56066EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

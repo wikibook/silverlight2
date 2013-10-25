@@ -1,0 +1,14 @@
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-21\Snippet5-21Web\bin\Snippet5-21Web.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-21\Snippet5-21Web\bin\Snippet5-21Web.pdb
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-21\Snippet5-21Web\bin\System.Web.Silverlight.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-21\Snippet5-21Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-21\Snippet5-21Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-21\Snippet5-21Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-21\Snippet5-21Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-21\Snippet5-21Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-21\Snippet5-21Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-21\Snippet5-21Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-21\Snippet5-21Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-21\Snippet5-21Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-21\Snippet5-21Web\obj\Debug\Snippet5-21Web.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-21\Snippet5-21Web\obj\Debug\Snippet5-21Web.pdb

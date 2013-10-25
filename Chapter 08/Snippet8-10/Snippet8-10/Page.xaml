@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="Snippet8_10.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <StackPanel Orientation="Horizontal">
+            <Path Fill="Navy" Stroke="Black" StrokeThickness="1">
+                <Path.Data>
+                    <RectangleGeometry Rect="8,8,64,64" />
+                </Path.Data>
+            </Path>
+
+            <Rectangle Stroke="Black" StrokeThickness="1" Height="64"  Width="64" Canvas.Top="8" Canvas.Left="8" Fill="Navy" />        
+        </StackPanel>        
+    </Grid>
+</UserControl>

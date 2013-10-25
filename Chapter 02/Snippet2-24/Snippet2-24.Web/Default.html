@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+  <title>Silverlight Project Test Page </title>
+  <script type="text/javascript" src="Silverlight.js"></script>
+  <script type="text/javascript">
+    function buttonClick()
+    {
+      var plugin = document.getElementById("mySilverlightControl");
+      plugin.content.bridge.ExecuteWebService();
+    }
+  </script>
+</head>
+
+<body style="height:100%;">
+  <div id="mySilverlightHost" style="height:10px;;">
+    <script type="text/javascript">
+      var host = document.getElementById("mySilverlightHost");
+      Silverlight.createObjectEx({                                        
+        source: "ClientBin/MySilverlightApp.xap",                         
+        parentElement: host,      
+        id: "mySilverlightControl",                                       
+        properties: {                                                           
+          height: "100%",                                                       
+          width: "100%",                                                        
+          version: "2.0"
+        },
+        events: { }  
+      });    
+    </script>
+  </div>
+  <input type="button" onclick="buttonClick();"
+    value="Execute Web Service" />
+</body>
+</html>

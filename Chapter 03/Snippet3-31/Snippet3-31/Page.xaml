@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="Snippet3_31.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <StackPanel x:Name="myStackPanel" Background="LightGray">
+            <TextBlock Text="Give Me Some Space!" />
+            <TextBlock Text="I'll Give You Some Space!" Padding="20.2" />
+        </StackPanel>
+    </Grid>
+</UserControl>

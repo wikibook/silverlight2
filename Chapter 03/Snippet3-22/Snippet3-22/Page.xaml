@@ -1,0 +1,8 @@
+﻿<UserControl x:Class="Snippet3_22.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <TextBlock Text="I’m a Big Boy Now." FontSize="32" />
+    </Grid>
+</UserControl>

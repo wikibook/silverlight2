@@ -1,0 +1,12 @@
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 1\Welcome\Welcome\Bin\Debug\Welcome.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 1\Welcome\Welcome\Bin\Debug\Welcome.pdb
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 1\Welcome\Welcome\Bin\Debug\AppManifest.xaml
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 1\Welcome\Welcome\Bin\Debug\Welcome.xap
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 1\Welcome\Welcome\Bin\Debug\TestPage.html
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 1\Welcome\Welcome\obj\Debug\ResolveAssemblyReference.cache
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 1\Welcome\Welcome\obj\Debug\App.g.cs
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 1\Welcome\Welcome\obj\Debug\Page.g.cs
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 1\Welcome\Welcome\obj\Debug\Welcome.g.resources
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 1\Welcome\Welcome\obj\Debug\Welcome.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 1\Welcome\Welcome\obj\Debug\Welcome.pdb
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 1\Welcome\Welcome\obj\Debug\XapCacheFile.xml

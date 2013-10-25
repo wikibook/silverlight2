@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="SyndicatedFeeds.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="#FF76C373">
+        <Button Grid.Column="0" Height="21" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="68" Content="Load RSS" Margin="8,0,0,8" x:Name="btnRSS" Click="btnRSS_Click" />
+        <ListBox Grid.Column="0" Height="256" Margin="0,8,8,0" x:Name="FeedList" VerticalAlignment="Top" ItemsSource="{Binding Mode=OneWay}" HorizontalAlignment="Right" Width="384">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Title.Text}" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</UserControl>

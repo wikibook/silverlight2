@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="Snippet10_17.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Button x:Name="myButton" Content="Hello" Height="45" Width="45">
+            <Button.Template>
+                <ControlTemplate>
+                    <Ellipse Fill="#FF2103BA" Stroke="Black" StrokeThickness="2" Height="{TemplateBinding Height}" Width="{TemplateBinding Width}" />
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+</UserControl>

@@ -1,0 +1,5 @@
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.13-6.15\SilverlightInAction\JSON.Web\bin\JSON.Web.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.13-6.15\SilverlightInAction\JSON.Web\bin\JSON.Web.pdb
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.13-6.15\SilverlightInAction\JSON.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.13-6.15\SilverlightInAction\JSON.Web\obj\Debug\JSON.Web.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.13-6.15\SilverlightInAction\JSON.Web\obj\Debug\JSON.Web.pdb

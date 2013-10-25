@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snippet4-21", "Snippet4-21\Snippet4-21.csproj", "{DF72BFF8-B03D-4FA4-B144-146CCD5F7752}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Snippet4-21Web", "Snippet4-21Web\", "{016C2CEE-B911-4843-B22E-A90D11678075}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Snippet4-21Web"
+		Debug.AspNetCompiler.PhysicalPath = "Snippet4-21Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Snippet4-21Web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Snippet4-21Web"
+		Release.AspNetCompiler.PhysicalPath = "Snippet4-21Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Snippet4-21Web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51121"
+		DefaultWebSiteLanguage = "Visual C#"
+		ProjOutputReferences = "{DF72BFF8-B03D-4FA4-B144-146CCD5F7752}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF72BFF8-B03D-4FA4-B144-146CCD5F7752}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{DF72BFF8-B03D-4FA4-B144-146CCD5F7752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF72BFF8-B03D-4FA4-B144-146CCD5F7752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF72BFF8-B03D-4FA4-B144-146CCD5F7752}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{DF72BFF8-B03D-4FA4-B144-146CCD5F7752}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{DF72BFF8-B03D-4FA4-B144-146CCD5F7752}.Release|.NET.ActiveCfg = Release|Any CPU
+		{DF72BFF8-B03D-4FA4-B144-146CCD5F7752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF72BFF8-B03D-4FA4-B144-146CCD5F7752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF72BFF8-B03D-4FA4-B144-146CCD5F7752}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{DF72BFF8-B03D-4FA4-B144-146CCD5F7752}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{016C2CEE-B911-4843-B22E-A90D11678075}.Debug|.NET.ActiveCfg = Debug|.NET
+		{016C2CEE-B911-4843-B22E-A90D11678075}.Debug|.NET.Build.0 = Debug|.NET
+		{016C2CEE-B911-4843-B22E-A90D11678075}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{016C2CEE-B911-4843-B22E-A90D11678075}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{016C2CEE-B911-4843-B22E-A90D11678075}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{016C2CEE-B911-4843-B22E-A90D11678075}.Release|.NET.ActiveCfg = Debug|.NET
+		{016C2CEE-B911-4843-B22E-A90D11678075}.Release|.NET.Build.0 = Debug|.NET
+		{016C2CEE-B911-4843-B22E-A90D11678075}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{016C2CEE-B911-4843-B22E-A90D11678075}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{016C2CEE-B911-4843-B22E-A90D11678075}.Release|Mixed Platforms.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

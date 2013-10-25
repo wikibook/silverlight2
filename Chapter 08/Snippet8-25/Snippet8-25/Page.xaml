@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="Snippet8_25.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Rectangle Width="30" Height="30" Fill="Green" Stroke="Black" Canvas.Left="35" Canvas.Top="35">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="2.5" ScaleY="2.5"/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+    </Grid>
+</UserControl>

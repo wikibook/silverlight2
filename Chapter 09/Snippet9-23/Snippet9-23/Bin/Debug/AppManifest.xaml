@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Snippet9-23" EntryPointType="Snippet9_23.App" RuntimeVersion="2.0.30923.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Snippet9-23" Source="Snippet9-23.dll" />
+  </Deployment.Parts>
+</Deployment>

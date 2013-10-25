@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="Snippet11_21.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="myButton" Content="Request Content" Click="myButton_Click" Height="30" Width="180" />
+                <Button x:Name="cancelButton" Content="Cancel Content" Click="cancelButton_Click" Height="30" Width="180" Margin="10" />
+            </StackPanel>
+            
+            <TextBlock x:Name="myTextBlock" />
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,12 @@
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WcfOutApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WcfOutApp\obj\Debug\App.g.cs
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WcfOutApp\obj\Debug\Page.g.cs
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WcfOutApp\obj\Debug\WcfOutApp.g.resources
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WcfOutApp\Bin\Debug\AppManifest.xaml
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WcfOutApp\Bin\Debug\WcfOutApp.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WcfOutApp\Bin\Debug\WcfOutApp.pdb
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WcfOutApp\Bin\Debug\WcfOutApp.xap
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WcfOutApp\Bin\Debug\TestPage.html
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WcfOutApp\obj\Debug\WcfOutApp.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WcfOutApp\obj\Debug\WcfOutApp.pdb
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.20\SilverlightInAction\WcfOutApp\obj\Debug\XapCacheFile.xml

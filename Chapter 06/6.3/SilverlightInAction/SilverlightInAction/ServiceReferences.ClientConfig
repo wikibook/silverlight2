@@ -1,0 +1,16 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="SampleAsmxSoap" maxBufferSize="2147483647" maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://localhost:53015/SampleAsmx.asmx" binding="basicHttpBinding"
+                bindingConfiguration="SampleAsmxSoap" contract="SilverService.SampleAsmxSoap"
+                name="SampleAsmxSoap" />
+        </client>
+    </system.serviceModel>
+</configuration>

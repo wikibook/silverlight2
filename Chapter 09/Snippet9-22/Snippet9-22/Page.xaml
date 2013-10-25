@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="Snippet9_22.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Canvas Width="640" Height="480" Background="White">
+            <Ellipse Width="50" Height="50" x:Name="myEllipse" Fill="Maroon" Stroke="Black">
+                <Ellipse.Resources>
+                    <Storyboard x:Name="myStoryboard">
+                        <DoubleAnimationUsingKeyFrames 
+                            Storyboard.TargetName="myEllipse"   
+                            Storyboard.TargetProperty="(Canvas.Left)">
+                            <LinearDoubleKeyFrame KeyTime="00:00:00" Value="0" />
+                            <LinearDoubleKeyFrame KeyTime="00:00:01" Value="77" />
+                            <LinearDoubleKeyFrame KeyTime="00:00:02" Value="148" />
+                            <LinearDoubleKeyFrame KeyTime="00:00:03" Value="223" />
+                            <LinearDoubleKeyFrame KeyTime="00:00:04" Value="315" />
+                            <LinearDoubleKeyFrame KeyTime="00:00:05" Value="397" />
+                        </DoubleAnimationUsingKeyFrames>
+
+                        <DoubleAnimationUsingKeyFrames 
+          Storyboard.TargetName="myEllipse"  
+          Storyboard.TargetProperty="(Canvas.Top)">
+                            <LinearDoubleKeyFrame KeyTime="00:00:00" Value="0" />
+                            <LinearDoubleKeyFrame KeyTime="00:00:01" Value="132" />
+                            <LinearDoubleKeyFrame KeyTime="00:00:02" Value="42" />
+                            <LinearDoubleKeyFrame KeyTime="00:00:03" Value="132" />
+                            <LinearDoubleKeyFrame KeyTime="00:00:04" Value="81" />
+                            <LinearDoubleKeyFrame KeyTime="00:00:05" Value="132" />
+                        </DoubleAnimationUsingKeyFrames>
+                    </Storyboard>
+                </Ellipse.Resources>
+            </Ellipse>
+        </Canvas>
+    </Grid>
+</UserControl>

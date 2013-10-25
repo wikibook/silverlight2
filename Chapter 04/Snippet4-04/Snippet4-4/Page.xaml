@@ -1,0 +1,8 @@
+﻿<UserControl x:Class="Snippet4_4.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Canvas x:Name="LayoutRoot" Background="Black">
+        <TextBlock x:Name="myTextBlock" Foreground="White" Text="Waiting..." MouseLeftButtonDown="MyTextBlock_MouseLeftButtonDown" MouseMove="MyTextBlock_MouseMove" MouseLeftButtonUp="MyTextBlock_MouseLeftButtonUp" /> 
+    </Canvas>
+</UserControl>

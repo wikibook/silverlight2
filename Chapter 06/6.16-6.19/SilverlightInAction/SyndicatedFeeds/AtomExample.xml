@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Chad Campbell's Blog</title>
+    <link href="http://somedomain.com/" rel="self"/>
+    <updated>2007-11-04T11:27:52Z</updated>
+    <author>
+        <name>Chad Campbell</name>
+    </author>
+    <id>http://somedomain.com/</id>
+    <entry>
+        <title>My Latest Blog Post!</title>
+        <link href="http://somedomain.com/myLatestBlogPost.html"/>
+        <id>http://somedomain.com/myLatestBlogPost.html</id>
+        <updated>2007-10-22T12:12:43Z</updated>
+        <content type="text/xml">
+            <TextBlock Foreground="Red">
+                Formatted content of the latest post
+            </TextBlock>
+        </content>
+    </entry>
+    <entry>
+        <title>My First Blog Post!</title>
+        <link href="http://somedomain.com/myFirstBlogPost.html"/>
+        <id>http://somedomain.com/myFirstBlogPost.html</id>
+        <updated>2007-10-15T10:32:47Z</updated>
+        <content type="text/xml">
+            <TextBlock Foreground="Red">
+                Formatted content of my first post
+            </TextBlock>
+        </content>
+    </entry>
+</feed>

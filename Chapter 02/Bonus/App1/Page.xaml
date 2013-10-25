@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="App1.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        
+        <TextBlock Text="Please enter some text and press Send" FontFamily="Verdana" FontSize="14" />
+        <TextBox x:Name="myTextBox" Height="30" Width="300" Grid.Row="1" VerticalAlignment="Top" />
+        <Button x:Name="myButton" Content="Send" Height="30" Width="90" Grid.Row="1" VerticalAlignment="Top" Grid.Column="1" Click="myButton_Click" />
+    </Grid>
+</UserControl>

@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="Snippet4_11.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <StackPanel>
+            <TextBlock Text="What is your favorite flavor of ice cream?" />
+            <RadioButton Content="Chocolate" IsChecked="true" />
+            <RadioButton Content="Vanilla" />
+        
+            <TextBlock Padding="0,15,0,0" Text="What is your favorite pizza topping?" />
+            <RadioButton Content="Green Peppers" GroupName="pizza" />   
+            <RadioButton Content="Onions" GroupName="pizza" />          
+            <RadioButton Content="Pepperonis" IsChecked="true" GroupName="pizza" />                                      
+        </StackPanel>
+    </Grid>
+</UserControl>

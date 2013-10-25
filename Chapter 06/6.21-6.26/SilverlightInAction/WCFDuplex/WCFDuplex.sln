@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFDuplex", "WCFDuplex.csproj", "{B361BF24-D867-4BCD-911C-E0A84966ABE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFDuplex.Web", "..\WCFDuplex.Web\WCFDuplex.Web.csproj", "{3417675A-DB38-4D4A-8078-3DC71D4C854E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B361BF24-D867-4BCD-911C-E0A84966ABE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B361BF24-D867-4BCD-911C-E0A84966ABE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B361BF24-D867-4BCD-911C-E0A84966ABE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B361BF24-D867-4BCD-911C-E0A84966ABE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3417675A-DB38-4D4A-8078-3DC71D4C854E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3417675A-DB38-4D4A-8078-3DC71D4C854E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3417675A-DB38-4D4A-8078-3DC71D4C854E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3417675A-DB38-4D4A-8078-3DC71D4C854E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

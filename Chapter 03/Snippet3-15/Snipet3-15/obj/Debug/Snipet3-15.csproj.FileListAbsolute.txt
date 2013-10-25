@@ -1,0 +1,12 @@
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 03\Snipet3-15\Snipet3-15\Bin\Debug\Snipet3-15.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 03\Snipet3-15\Snipet3-15\Bin\Debug\Snipet3-15.pdb
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 03\Snipet3-15\Snipet3-15\Bin\Debug\AppManifest.xaml
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 03\Snipet3-15\Snipet3-15\Bin\Debug\Snipet3-15.xap
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 03\Snipet3-15\Snipet3-15\Bin\Debug\TestPage.html
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 03\Snipet3-15\Snipet3-15\obj\Debug\ResolveAssemblyReference.cache
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 03\Snipet3-15\Snipet3-15\obj\Debug\App.g.cs
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 03\Snipet3-15\Snipet3-15\obj\Debug\Page.g.cs
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 03\Snipet3-15\Snipet3-15\obj\Debug\Snipet3-15.g.resources
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 03\Snipet3-15\Snipet3-15\obj\Debug\Snipet3-15.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 03\Snipet3-15\Snipet3-15\obj\Debug\Snipet3-15.pdb
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 03\Snipet3-15\Snipet3-15\obj\Debug\XapCacheFile.xml

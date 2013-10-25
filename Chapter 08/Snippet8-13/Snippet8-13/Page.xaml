@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="Snippet8_13.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Path Stroke="Navy" StrokeThickness="8" Fill="Navy">
+            <Path.Data>
+                <GeometryGroup FillRule="Evenodd">
+                    <EllipseGeometry Center="20,40" RadiusX="15" RadiusY="15" />
+                    <LineGeometry StartPoint="20,40" EndPoint="70,40" />
+                    <LineGeometry StartPoint="66,38" EndPoint="66,55" />
+                    <LineGeometry StartPoint="55,38" EndPoint="55,55" />
+                    <EllipseGeometry Center="14,40" RadiusX="8" RadiusY="8" />
+                </GeometryGroup>
+            </Path.Data>
+        </Path>
+    </Grid>
+</UserControl>

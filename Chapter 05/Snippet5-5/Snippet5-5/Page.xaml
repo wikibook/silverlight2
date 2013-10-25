@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="Snippet5_5.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Name:" />
+        <TextBlock Text="Image:" Grid.Column="1" />
+        
+        <TextBox Text="{Binding Name, Mode=TwoWay}" Grid.Row="1" />     
+        <Image x:Name="myImage"  Source="{Binding Icon}" Grid.Row="1" Grid.Column="1" />                    
+    </Grid>
+</UserControl>

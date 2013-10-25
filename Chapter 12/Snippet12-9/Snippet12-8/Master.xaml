@@ -1,0 +1,8 @@
+﻿<UserControl x:Class="Snippet12_8.Master"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <TextBlock x:Name="myTextBlock" Text="This is the second page!" />
+    </Grid>
+</UserControl>

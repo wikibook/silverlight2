@@ -1,0 +1,12 @@
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-22\Snippet5-22\Bin\Debug\Snippet5-22.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-22\Snippet5-22\Bin\Debug\Snippet5-22.pdb
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-22\Snippet5-22\Bin\Debug\AppManifest.xaml
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-22\Snippet5-22\Bin\Debug\Snippet5-22.xap
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-22\Snippet5-22\Bin\Debug\TestPage.html
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-22\Snippet5-22\obj\Debug\ResolveAssemblyReference.cache
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-22\Snippet5-22\obj\Debug\App.g.cs
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-22\Snippet5-22\obj\Debug\Page.g.cs
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-22\Snippet5-22\obj\Debug\Snippet5-22.g.resources
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-22\Snippet5-22\obj\Debug\Snippet5-22.dll
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-22\Snippet5-22\obj\Debug\Snippet5-22.pdb
+C:\Mesh\Documents\Silverlight in Action\Source Code\Chapter 05\Snippet5-22\Snippet5-22\obj\Debug\XapCacheFile.xml

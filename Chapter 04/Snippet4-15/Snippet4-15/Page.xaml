@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="Snippet4_15.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="420" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <ListBox x:Name="myListBox" Margin="10">
+            <ListBox.Items>
+                <ListBoxItem>
+                    <StackPanel Height="80" Orientation="Horizontal">
+                        <Canvas Width="87" Height="77">
+                            <Image Source="http://www.silverlightinaction.com/month.png" />
+                            <TextBlock Width="77" TextAlignment="Center" FontFamily="Arial" FontWeight="Bold" FontSize="32" Padding="30" Text="1" />
+                        </Canvas>
+                        <TextBlock FontFamily="Arial" FontWeight="Bold" FontSize="44" Padding="20">Sunday</TextBlock>
+                    </StackPanel>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <StackPanel Height="80" Orientation="Horizontal">
+                        <Canvas Width="87" Height="77">
+                            <Image Source="http://www.silverlightinaction.com/month.png" />
+                            <TextBlock Width="77" TextAlignment="Center" FontFamily="Arial" FontWeight="Bold" FontSize="32" Padding="30" Text="2" />
+                        </Canvas>
+                        <TextBlock FontFamily="Arial" FontWeight="Bold" FontSize="44" Padding="20">Monday</TextBlock>
+                    </StackPanel>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <StackPanel Height="80" Orientation="Horizontal">
+                        <Canvas Width="87" Height="77">
+                            <Image Source="http://www.silverlightinaction.com/month.png" />
+                            <TextBlock Width="77" TextAlignment="Center" FontFamily="Arial" FontWeight="Bold" FontSize="32" Padding="30" Text="3" />
+                        </Canvas>
+                        <TextBlock FontFamily="Arial" FontWeight="Bold" FontSize="44" Padding="20">Tuesday</TextBlock>
+                    </StackPanel>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <StackPanel Height="80" Orientation="Horizontal">
+                        <Canvas Width="87" Height="77">
+                            <Image Source="http://www.silverlightinaction.com/month.png" />
+                            <TextBlock Width="77" TextAlignment="Center" FontFamily="Arial" FontWeight="Bold" FontSize="32" Padding="30" Text="4" />
+                        </Canvas>
+                        <TextBlock FontFamily="Arial" FontWeight="Bold" FontSize="44" Padding="20">Wednesday</TextBlock>
+                    </StackPanel>
+                </ListBoxItem>
+            </ListBox.Items>
+        </ListBox>
+    </Grid>
+</UserControl>

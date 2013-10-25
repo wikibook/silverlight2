@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="Snippet5_10.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:my="clr-namespace:Snippet5_10"             
+    Width="400" Height="300">
+
+    <UserControl.Resources>
+        <my:YesNoValueConverter x:Key="myConverter"></my:YesNoValueConverter>
+    </UserControl.Resources>
+
+    <StackPanel x:Name="LayoutRoot" Background="White">
+        <TextBox x:Name="myTextBox" Text="{Binding IsCorrect, Converter={StaticResource myConverter}}" />
+        <Button x:Name="myButton" Content="Bind" Height="30" Width="90" Click="myButton_Click" />
+    </StackPanel>
+</UserControl>

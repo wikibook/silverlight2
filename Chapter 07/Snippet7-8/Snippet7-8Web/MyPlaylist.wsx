@@ -1,0 +1,8 @@
+﻿<?wsx version="1.0"?>
+<smil>
+  <seq id="sq1">
+    <media id="advertisement1" src="advertisement1.wmv" />
+    <media id="movie" src="myMovie.wmv" />
+    <media id="advertisement2" src="advertisement2.wmv" />
+  <seq>
+</smil>

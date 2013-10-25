@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+  <title>My Silverlight Project</title>    
+  <script type="text/javascript" src="Silverlight.js"></script>           
+</head>
+
+<body style="height:100%">
+  <!-- Create the Silverlight control inside of “mySilverlightHost” -->
+  <div id="mySilverlightHost" style="height:100%;">                                            
+    <script type="text/javascript">                                       
+        Silverlight.createObjectEx({                                        
+            source: "ClientBin/Snippet2-08.xap",                         
+            parentElement: document.getElementById("mySilverlightHost"),      
+            id: "mySilverlightControl",                                       
+            properties: {                                                           
+                height: "100%",                                                       
+                width: "100%",                                                        
+                version: "2.0"
+            },
+            events: { },
+            initParams: "key1=value1, key2=123, keyX=valueY",                       
+            context: "27d3b786-4e0c-4ae2-97a3-cee8921c7d3d"                         
+        }); 
+    </script>                                                                 
+  </div>
+</body>
+</html>

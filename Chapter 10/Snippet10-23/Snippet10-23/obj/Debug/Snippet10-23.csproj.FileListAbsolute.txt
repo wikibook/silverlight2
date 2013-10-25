@@ -1,0 +1,12 @@
+C:\Tests\Snippet10-23\Snippet10-23\Bin\Debug\Snippet10-23.dll
+C:\Tests\Snippet10-23\Snippet10-23\Bin\Debug\Snippet10-23.pdb
+C:\Tests\Snippet10-23\Snippet10-23\Bin\Debug\AppManifest.xaml
+C:\Tests\Snippet10-23\Snippet10-23\Bin\Debug\Snippet10-23.xap
+C:\Tests\Snippet10-23\Snippet10-23\Bin\Debug\TestPage.html
+C:\Tests\Snippet10-23\Snippet10-23\obj\Debug\ResolveAssemblyReference.cache
+C:\Tests\Snippet10-23\Snippet10-23\obj\Debug\App.g.cs
+C:\Tests\Snippet10-23\Snippet10-23\obj\Debug\Page.g.cs
+C:\Tests\Snippet10-23\Snippet10-23\obj\Debug\Snippet10-23.g.resources
+C:\Tests\Snippet10-23\Snippet10-23\obj\Debug\Snippet10-23.dll
+C:\Tests\Snippet10-23\Snippet10-23\obj\Debug\Snippet10-23.pdb
+C:\Tests\Snippet10-23\Snippet10-23\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="Snippet9_20.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Canvas x:Name="LayoutRoot" Background="White">
+        <Canvas.Triggers>
+            <EventTrigger RoutedEvent="Canvas.Loaded">
+                <!-- Insert Actions here -->
+            </EventTrigger>
+        </Canvas.Triggers>
+        
+        <TextBlock Text="There is nothing to see here." />
+    </Canvas>
+</UserControl>

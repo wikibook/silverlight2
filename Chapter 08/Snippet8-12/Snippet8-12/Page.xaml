@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="Snippet8_12.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Canvas Width="100" Height="100" Background="Gray">
+            <Path Stroke="Red" StrokeThickness="2">
+                <Path.Data>
+                    <PathGeometry>
+                        <PathGeometry.Figures>
+                            <PathFigure StartPoint="5,5">
+                                <PathFigure.Segments>
+                                    <ArcSegment Size="10,10" RotationAngle="30" Point="20,10" IsLargeArc="False" SweepDirection="Clockwise" />
+                                    <BezierSegment Point1="40,0" Point2="60,60" Point3="75,90"/>
+                                    <LineSegment Point="80,15" />
+                                    <PolyLineSegment Points="50,90 3,7" />
+                                    <QuadraticBezierSegment Point1="90,90" Point2="70,60"/>
+                                </PathFigure.Segments>
+                            </PathFigure>
+                        </PathGeometry.Figures>
+                    </PathGeometry>
+                </Path.Data>
+            </Path>
+        </Canvas>
+
+    </Grid>
+</UserControl>

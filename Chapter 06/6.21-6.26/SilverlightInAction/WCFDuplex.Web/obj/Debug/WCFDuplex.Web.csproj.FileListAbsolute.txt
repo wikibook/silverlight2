@@ -1,0 +1,15 @@
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.21-6.26\SilverlightInAction\WCFDuplex.Web\bin\WCFDuplex.Web.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.21-6.26\SilverlightInAction\WCFDuplex.Web\bin\WCFDuplex.Web.pdb
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.21-6.26\SilverlightInAction\WCFDuplex.Web\bin\System.ServiceModel.PollingDuplex.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.21-6.26\SilverlightInAction\WCFDuplex.Web\bin\System.Web.Silverlight.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.21-6.26\SilverlightInAction\WCFDuplex.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.21-6.26\SilverlightInAction\WCFDuplex.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.21-6.26\SilverlightInAction\WCFDuplex.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.21-6.26\SilverlightInAction\WCFDuplex.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.21-6.26\SilverlightInAction\WCFDuplex.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.21-6.26\SilverlightInAction\WCFDuplex.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.21-6.26\SilverlightInAction\WCFDuplex.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.21-6.26\SilverlightInAction\WCFDuplex.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.21-6.26\SilverlightInAction\WCFDuplex.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.21-6.26\SilverlightInAction\WCFDuplex.Web\obj\Debug\WCFDuplex.Web.dll
+C:\Users\john.stockton\Desktop\Silverlight 2 In Action Source\6.21-6.26\SilverlightInAction\WCFDuplex.Web\obj\Debug\WCFDuplex.Web.pdb

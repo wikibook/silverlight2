@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="Snippet7_5.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <Canvas x:Name="LayoutRoot" Background="White">
+        <TextBlock x:Name="myTextBlock" Canvas.Top="0" />                     
+        <MediaElement x:Name="myMediaElement" Canvas.Top="20"                  
+            Source="http://www.silverlightinaction.com/video3.wmv"               
+            MediaOpened="myMediaElement_MediaOpened" />  
+  </Canvas>
+
+</UserControl>
